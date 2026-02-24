@@ -5,6 +5,10 @@ A standalone GUI utility designed to automatically enhance your **iiSULauncher**
 
 <img width="611" height="744" alt="Screenshot 2026-02-25 004000" src="https://github.com/user-attachments/assets/3ddc2df3-5b24-4c47-9c04-cb780b622228" />
 
+
+## Tutorial
+https://www.youtube.com/watch?v=ExqlZu14hGo
+
 ## 📁 Package Contents
 
 The provided folder includes everything you need to run the app without installing Python:
