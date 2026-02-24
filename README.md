@@ -60,7 +60,3 @@ This tool is a fan-made project for personal use. Please respect copyright laws 
 Feel free to fork this project, report issues, or submit pull requests.
 
 **Developed by:** [KorndanaiMos](https://github.com/KorndanaiMos)
-
----
-
-**Would you like me to create a "Quick Start" image or a GIF-style description of these steps to add to the visual appeal?**
