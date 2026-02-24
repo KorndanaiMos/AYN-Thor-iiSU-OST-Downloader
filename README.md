@@ -3,7 +3,7 @@
 A standalone GUI utility designed to automatically enhance your **iiSULauncher** experience by downloading and syncing Game OSTs directly to your Android device via ADB.
 
 
-<img width="590" height="674" alt="Screenshot 2026-02-24 234603" src="https://github.com/user-attachments/assets/16dd10b3-e377-4083-a39a-5c5c8594b5b9" />
+<img width="611" height="744" alt="Screenshot 2026-02-25 004000" src="https://github.com/user-attachments/assets/3ddc2df3-5b24-4c47-9c04-cb780b622228" />
 
 ## 📁 Package Contents
 
